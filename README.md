@@ -18,21 +18,21 @@ You can clone this and add your own personal notes and remove mine.
 | 12  | Dunzo                |                                                                    |
 | 13  | Shopee VISA problem  |                                                                    |
 | 14  | Grofers              |                                                                    |
-| 15  | Splashlearn          | 12 LPA, can try for expereince                                     |
+| 15  | Splashlearn          |                                  |
 | 16  | Interviewbit         |                                                                    |
 | 17  | Flipkart             |                                                                    |
-| 18  | Paypal               | test on 3rd Oct                                                    |
+| 18  | Paypal               |                                                     |
 | 19  | Walmart              |                                                                    |
-| 20  | OYO                  | no openings currently                                              |
+| 20  | OYO                  |                                              |
 | 21  | Uber                 |                                                                    |
 | 22  | Hotstar              |                                                                    |
 | 23  | Netflix              |                                                                    |
-| 24  | Sharechat            | interviewed already for frontend, will apply for backend next time |
+| 24  | Sharechat            |  |
 | 25  | Flock                |                                                                    |
 | 26  | Swiggy               |                                                                    |
 | 27  | Mobikwik             |                                                                    |
 | 28  | eBay                 |                                                                    |
-| 29  | Nutanix              | Referred..but no mails received , 22 LPA Base Salary               |
+| 29  | Nutanix              |               
 | 30  | American Express     | test given on 27/09 - no response                                  |
 | 31  | Moengage             |                                                                    |
 | 32  | Commvault            | "21 LPA , like adobe focuses on OS and other core                  |
